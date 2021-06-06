@@ -1,0 +1,12 @@
+CHECK OUT
+1. git init
+2. git pull <http path>
+
+CHECK IN 
+1. git init
+2. git add . 
+3. git branch -M main
+4. git commit -m 'initial commit'
+5. git remote add origin <http path>
+6. git push -u origin main
+                          
